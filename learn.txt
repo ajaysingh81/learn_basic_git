@@ -1,0 +1,18 @@
+for go a directory i use command cd 
+
+make directory command = mkdir 
+
+check directory = dir command
+
+create a file = touch <file name>
+
+go file in code editor = code . (vs code) or notepad <filename>
+
+
+check file content = cat <file name , example - index.html>
+
+
+and then initialize the directory(repo.) in git = git init 
+
+and check status of repository = git status
+
